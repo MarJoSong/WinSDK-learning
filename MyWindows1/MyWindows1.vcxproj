@@ -23,6 +23,7 @@
     <ProjectGuid>{cb0ba0e2-c7a6-4ff6-8e9f-5999c9ee4d77}</ProjectGuid>
     <RootNamespace>MyWindows1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Polyline</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
